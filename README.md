@@ -14,7 +14,7 @@ May the force accompany you in the conquest of the empire.
 
 ![alt text](https://github.com/kakatito22/Conqueros-Machine-2/blob/master/Video_1512315115.gif)
 ![alt text](https://github.com/kakatito22/Conqueros-Machine-1/blob/master/LOGO.png)
-<h1>WRITE UP's<h1/>
+<h1>WRITE UP's</h1>
 <br/>
 <a href="https://rubenpalenque.wordpress.com/2017/12/11/conqueros-machine-2/" title="WRITE UP">Rubén[ESP]</a>
 <br/><br/>
